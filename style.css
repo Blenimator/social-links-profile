@@ -55,7 +55,7 @@ body {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    width: 375px;
+    width: 372px;
     min-width: 160px;
     background-color: var(--greyMid);
     padding: 1rem;
@@ -63,7 +63,7 @@ body {
 }
 
 .avatar_image{
-    width: 6rem;
+    width: 88px;
     height: auto;
     border-radius: 50%;
     margin: 1rem;
@@ -72,7 +72,7 @@ body {
 h1{
     color: var(--white);
     margin: 1rem;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .location{
